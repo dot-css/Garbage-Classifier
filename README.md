@@ -1,10 +1,3 @@
-Here is a highly detailed, professional README file created for your Garbage Classifier repository, based on the GitHub link, Kaggle notebook, and dataset provided.
-
-You can copy and paste the text below directly into the `README.md` file in your `dot-css/Garbage-Classifier` repository.
-
------
-
-````markdown
 # ♻️ Garbage Classifier: Waste Type Recognition
 
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/saqibshoaibdz/trash-and-waste-type-recognition)
